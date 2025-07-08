@@ -1,7 +1,6 @@
 # OIBSIP-task-5
 Predicting house prices using Linear Regression on a housing dataset with evaluation metrics.
 # 🏠 Task 4: Predicting House Prices with Linear Regression
-📌 Task Title: Predicting House Prices using Linear Regression
 ---
  📊 Objective:
 To develop a **Linear Regression Model** that predicts house prices based on various features like area, number of bedrooms, bathrooms, and parking. This task provides practical experience in regression modeling, preprocessing, and model evaluation.
